@@ -1,0 +1,20 @@
+{
+  "name": "projeto_zero_vue",
+  "version": "1.0.0",
+  "description": "um teste para um novo projeto",
+  "homepage": "https://github.com/seaderal/projeto_zero_vue#readme",
+  "bugs": {
+    "url": "https://github.com/seaderal/projeto_zero_vue/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seaderal/projeto_zero_vue.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
